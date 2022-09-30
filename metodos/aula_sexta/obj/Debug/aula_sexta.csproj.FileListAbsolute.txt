@@ -1,0 +1,8 @@
+C:\Users\Aluno\Documents\jorge\metodos\aula_sexta\bin\Debug\aula_sexta.exe.config
+C:\Users\Aluno\Documents\jorge\metodos\aula_sexta\bin\Debug\aula_sexta.exe
+C:\Users\Aluno\Documents\jorge\metodos\aula_sexta\bin\Debug\aula_sexta.pdb
+C:\Users\Aluno\Documents\jorge\metodos\aula_sexta\obj\Debug\aula_sexta.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\jorge\metodos\aula_sexta\obj\Debug\aula_sexta.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Documents\jorge\metodos\aula_sexta\obj\Debug\aula_sexta.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\jorge\metodos\aula_sexta\obj\Debug\aula_sexta.exe
+C:\Users\Aluno\Documents\jorge\metodos\aula_sexta\obj\Debug\aula_sexta.pdb
